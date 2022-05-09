@@ -10,7 +10,7 @@ My 8-year-old kid and I made up this game because we were (he was) bored and it 
 
 ... but with a bird companion (or not! play it any way you want! that is the whole point!)
 
-![A game of Bird vs. Bird in ACTION]("assets/birdvsbird.jpg")
+![A game of Bird vs. Bird in ACTION](assets/birdvsbird.jpg)
 
 ## The Requirements of Bird vs. Bird
 
